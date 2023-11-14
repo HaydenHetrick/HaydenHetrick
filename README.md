@@ -3,7 +3,7 @@
 [![Linkedin: haydenhtrick](https://img.shields.io/badge/-haydenhetrick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haydenhetrick/)](https://www.linkedin.com/in/haydenhetrick/)
 [![GitHub followers](https://img.shields.io/github/followers/HaydenHetrick?label=Follow&style=social)](https://github.com/HaydenHetrick)
 
-Passionate about [Your Interests], I enjoy [Something You Love to Do or Learn]. I am currently working on [Current Project/Job] and constantly exploring new technologies and frameworks.
+Passionate about Programming, I am currently enrolled in Mahoning County Career & Technical Center for Software Engineering & Development im also constantly exploring new technologies and frameworks.
 
 ## 🔧 Technologies & Tools
 
