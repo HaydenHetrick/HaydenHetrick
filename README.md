@@ -1,7 +1,6 @@
 # Hello, I'm Hayden! 👋
 
-[![Linkedin: haydenhetrick](https://img.shields.io/badge/-haydenhetrick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haydenhetrick/)](https://www.linkedin.com/in/haydenhetrick/)
-[![GitHub followers](https://img.shields.io/github/followers/HaydenHetrick?label=Follow&style=social)](https://github.com/HaydenHetrick)
+[![Linkedin: HaydenHetrick](https://img.shields.io/badge/-haydenhetrick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haydenhetrick/)](https://www.linkedin.com/in/haydenhetrick/)
 
 Passionate about Programming, I am currently enrolled in Mahoning County Career & Technical Center for Software Engineering & Development I'm also constantly exploring new technologies and frameworks.
 
