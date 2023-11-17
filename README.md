@@ -24,6 +24,6 @@ Passionate about Programming, I am currently enrolled in Mahoning County Career 
 ## 📫 How to reach me
 
 - Email: hetrickhay@gmail.com
-- LinkedIn: [HaydenHetrick](https://www.linkedin.com/in/haydenhetrick/)
+- LinkedIn: [haydenhetrick](https://www.linkedin.com/in/haydenhetrick/)
 
-Feel free to reach out! Let's connect and collaborate. 😄
+Feel free to reach out! Let's connect and collaborate.
