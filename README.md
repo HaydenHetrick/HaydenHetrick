@@ -7,6 +7,9 @@ Passionate about Programming, I am currently enrolled in Mahoning County Career 
 ## 🚀 Skills
 
 - Python
+- Swift
+- SwiftUI
+- Xcode
 
 ## 🔧 Technologies & Tools
 
@@ -16,9 +19,6 @@ Passionate about Programming, I am currently enrolled in Mahoning County Career 
 
 ## 🌱 I’m currently learning
 
-- Swift
-- SwiftUI
-- Xcode
 - SQL
 
 ## 📫 How to reach me
