@@ -7,7 +7,6 @@ Passionate about Programming, I am currently enrolled in Mahoning County Career 
 ## 🚀 Skills
 
 - Python
-- Godot
 
 ## 🔧 Technologies & Tools
 
@@ -17,7 +16,8 @@ Passionate about Programming, I am currently enrolled in Mahoning County Career 
 
 ## 🌱 I’m currently learning
 
-- SQL
+- Godot
+- React
 
 ## 📫 How to reach me
 
