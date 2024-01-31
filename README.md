@@ -18,6 +18,7 @@ Passionate about Programming, I am currently enrolled in Mahoning County Career 
 
 ## 🌱 I’m currently learning
 
+- HTML & CSS
 
 
 ## 📫 How to reach me
