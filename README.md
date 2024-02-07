@@ -2,7 +2,7 @@
 
 [![Linkedin: HaydenHetrick](https://img.shields.io/badge/-haydenhetrick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haydenhetrick/)](https://www.linkedin.com/in/haydenhetrick/)
 
-Passionate about Programming, I am currently enrolled in Mahoning County Career & Technical Center for Software Engineering & Development I'm also constantly exploring new technologies and frameworks.
+I am currently enrolled in Mahoning County Career & Technical Center for Software Engineering & Development I'm also constantly exploring new technologies and frameworks.
 
 ## Skills
 
