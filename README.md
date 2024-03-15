@@ -6,11 +6,14 @@ I am currently enrolled in Mahoning County Career & Technical Center for Softwar
 
 ## Skills
 
-- Python
+- JavaScript
 - HTML & CSS
+- Python
 
 ## Technologies & Tools
 
+- React
+- Firebase
 - Github
 - Git
 - VSC
@@ -19,8 +22,9 @@ I am currently enrolled in Mahoning County Career & Technical Center for Softwar
 
 ## I’m currently learning
 
-- React
-- JavaScript
+- React Native
+- Expo.js
+- Next.js
 
 ## How to reach me
 
