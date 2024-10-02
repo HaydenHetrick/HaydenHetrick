@@ -4,7 +4,7 @@
 
 Hi there! I’m currently enrolled at Mahoning County Career & Technical Center, where I'm diving deep into Software Engineering & Development. I love exploring new technologies and frameworks, always looking to expand my skill set and tackle new challenges.
 
-When I'm not coding, you can find me playing guitar or skating—both passions that keep me creative and active.
+When I'm not coding, you can find me playing guitar or skateboarding—both passions that keep me creative and active.
 
 ## Skills
 - HTML
