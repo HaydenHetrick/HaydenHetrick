@@ -13,6 +13,7 @@ When I'm not coding, you can find me playing guitar, a passion that keeps me cre
 - TypeScript
 - Python
 - C#
+- Lua/Luau
 
 ## Technologies & Tools
 
@@ -26,6 +27,7 @@ When I'm not coding, you can find me playing guitar, a passion that keeps me cre
 - VSC
 - Xcode
 - Godot
+- Roblox Studio
 
 ## How to reach me
 
